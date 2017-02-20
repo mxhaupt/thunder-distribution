@@ -72,6 +72,10 @@ projects:
     type: "module"
     version: "1"
 
+  empty_fields:
+    type: "module"
+    version: "1.0-alpha1"
+
   entity:
     type: "module"
     version: "1"
@@ -206,7 +210,7 @@ projects:
     type: "theme"
     download:
       url: "https://git.drupal.org/project/thunder_admin.git"
-      tag: "8.x-1.0.1"
+      branch: "8.x-2.x"
 
   token:
     type: "module"
